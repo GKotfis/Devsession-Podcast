@@ -1,5 +1,6 @@
 # Devsession-Podcast
-Wszystkie tematy, pytania związane z podcastem Devsession wrzucaj śmiało tutaj.
+
+# Strona domowa: [devsession.pl](https://devsession.pl/podkast)
 
 
 # Wydane odcinki:
