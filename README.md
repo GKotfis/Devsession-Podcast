@@ -1,6 +1,6 @@
 # Devsession-Podcast
 
-# Strona domowa: [devsession.pl](https://devsession.pl/podkast)
+# Strona domowa podcastu: [devsession.pl](https://devsession.pl/podkast)
 
 
 # Wydane odcinki:
