@@ -9,3 +9,4 @@
 3. [Maciej Gajdzica – programista systemów embedded](https://devsession.pl/japrogramista-3/)
 4. [Karol Grabowski – od radcy prawnego do programisty](https://devsession.pl/japrogramista-4/)
 4. [Tomasz Heimowski – programowanie funkcyjne](https://devsession.pl/japrogramista-5/)
+4. [Katarzyna Gajewska – przyszłość rynku pracy](https://devsession.pl/japrogramista-6/)
