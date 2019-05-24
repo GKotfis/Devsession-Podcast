@@ -11,3 +11,6 @@
 5. [Tomasz Heimowski – programowanie funkcyjne](https://devsession.pl/japrogramista-5/)
 6. [Katarzyna Gajewska – przyszłość rynku pracy](https://devsession.pl/japrogramista-6/)
 7. [Tomasz Nurkiewicz – Java Champion](https://devsession.pl/japrogramista-7/)
+8. [SegFault Łódź 2019 – O Testach z Robertem Pankoweckim oraz Arkiem Benedyktem](https://devsession.pl/segfault-lodz-2019-o-testach-z-robertem-pankoweckim-oraz-arkiem-benedyktem/)
+9. [Relacja SegFault Łódź 2019](https://devsession.pl/relacja-segfault-lodz-2019/)
+10. [Frontend 2019 – Michał Michalczuk](https://devsession.pl/frontend-2019-michal-michalczuk/)
