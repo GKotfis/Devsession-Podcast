@@ -15,5 +15,5 @@
 9. [Relacja SegFault Łódź 2019](https://devsession.pl/relacja-segfault-lodz-2019/)
 10. [Frontend 2019 – Michał Michalczuk](https://devsession.pl/frontend-2019-michal-michalczuk/)
 11. [Rola CTO - Wojtek Ptak](https://devsession.pl/rola-cto-wojciech-ptak/)
-12. [O pamięcie ...tej komputerowej - Konrad Kokosa](https://devsession.pl/o-pamieci-tej-komputerowej-konrad-kokosa/)
+12. [O pamięci ...tej komputerowej - Konrad Kokosa](https://devsession.pl/o-pamieci-tej-komputerowej-konrad-kokosa/)
 13. [Ja, programista - Jarek Pałka](https://devsession.pl/ja-programista-jaroslaw-palka/)
