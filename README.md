@@ -17,3 +17,5 @@
 11. [Rola CTO - Wojtek Ptak](https://devsession.pl/rola-cto-wojciech-ptak/)
 12. [O pamięci ...tej komputerowej - Konrad Kokosa](https://devsession.pl/o-pamieci-tej-komputerowej-konrad-kokosa/)
 13. [Ja, programista - Jarek Pałka](https://devsession.pl/ja-programista-jaroslaw-palka/)
+14. [„O Zmianie” – Katarzyna Michałowska, Marcin Hoppe](https://devsession.pl/o-zmianie-katarzyna-michalowska-marcin-hoppe/)
+15. [The old is the new New – Szymon Kulec](https://devsession.pl/the-old-is-the-new-new-szymon-kulec/)
